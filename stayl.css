@@ -1,0 +1,14 @@
+.num{
+    border: rgb(245, 56, 56) 3px solid;
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    float: left;
+    margin-bottom: 5px;
+}
+#button{
+    clear: left;
+}
+button{
+    padding: 30px;
+}
