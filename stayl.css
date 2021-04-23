@@ -1,7 +1,7 @@
 .num{
     border: rgb(245, 56, 56) 3px solid;
     width: 80px;
-    height: 80px;
+    height: 40px;
     margin-left: 10px;
     float: left;
     margin-bottom: 5px;
@@ -11,4 +11,12 @@
 }
 button{
     padding: 30px;
+}
+#ans{
+
+    width:120px;
+    height: 40px;
+    background-color:#c1c2c3;
+    border: 3px;
+
 }
